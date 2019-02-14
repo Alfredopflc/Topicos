@@ -1,0 +1,10 @@
+C:\Users\ALFREDO\source\repos\TanqueDeAgua\TanqueDeAgua\bin\Debug\TanqueDeAgua.exe.config
+C:\Users\ALFREDO\source\repos\TanqueDeAgua\TanqueDeAgua\bin\Debug\TanqueDeAgua.exe
+C:\Users\ALFREDO\source\repos\TanqueDeAgua\TanqueDeAgua\bin\Debug\TanqueDeAgua.pdb
+C:\Users\ALFREDO\source\repos\TanqueDeAgua\TanqueDeAgua\obj\Debug\TanqueDeAgua.csprojAssemblyReference.cache
+C:\Users\ALFREDO\source\repos\TanqueDeAgua\TanqueDeAgua\obj\Debug\TanqueDeAgua.Form1.resources
+C:\Users\ALFREDO\source\repos\TanqueDeAgua\TanqueDeAgua\obj\Debug\TanqueDeAgua.Properties.Resources.resources
+C:\Users\ALFREDO\source\repos\TanqueDeAgua\TanqueDeAgua\obj\Debug\TanqueDeAgua.csproj.GenerateResource.cache
+C:\Users\ALFREDO\source\repos\TanqueDeAgua\TanqueDeAgua\obj\Debug\TanqueDeAgua.csproj.CoreCompileInputs.cache
+C:\Users\ALFREDO\source\repos\TanqueDeAgua\TanqueDeAgua\obj\Debug\TanqueDeAgua.exe
+C:\Users\ALFREDO\source\repos\TanqueDeAgua\TanqueDeAgua\obj\Debug\TanqueDeAgua.pdb
